@@ -1,0 +1,27 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+
+.Card {
+	background: white;
+	/* width: 700px;
+	height: 150px; */
+	padding: 15px;
+	margin: 0 auto;
+	color: #000;
+	border-radius: 15px;
+	box-shadow: 6px 9px 18px 2px rgba(0, 0, 0, 0.67);
+	-webkit-box-shadow: 6px 9px 18px 2px rgba(0, 0, 0, 0.67);
+	-moz-box-shadow: 6px 9px 18px 2px rgba(0, 0, 0, 0.67);
+}
+
+.d-flex {
+	display: flex;
+}
+
+.d-flex div {
+	padding: 0 10px;
+}
